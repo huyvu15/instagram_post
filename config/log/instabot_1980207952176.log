@@ -1,0 +1,14 @@
+2023-09-05 21:12:35,106 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2023-09-05 21:12:35,107 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\HI.WELCOME TO NET\AppData\Local\Programs\Python\Python310\lib\site-packages\instabot\bot\bot.py
+2023-09-05 21:12:35,107 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2023-09-05 21:12:35,519 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2023-09-05 21:12:35,912 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2023-09-05 21:12:36,221 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2023-09-05 21:12:36,501 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2023-09-05 21:12:38,426 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [400]>
+2023-09-05 21:12:38,427 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message":"The password you entered is incorrect. Please try again.","status":"fail","error_title":"Incorrect password","buttons":[{"title":"OK","action":"dismiss"}],"invalid_credentials":true,"exception_name":"UserInvalidCredentials","error_type":"bad_password"}'
+2023-09-05 21:12:38,427 - instabot version: 0.117.0 (api) - ERROR - Request returns 400 error!
+2023-09-05 21:12:38,427 - instabot version: 0.117.0 (api) - INFO - Instagram's error message: The password you entered is incorrect. Please try again.
+2023-09-05 21:12:38,427 - instabot version: 0.117.0 (api) - INFO - Error type: bad_password
+2023-09-05 21:12:38,427 - instabot version: 0.117.0 (api) - ERROR - Failed to login go to instagram and change your password
+2023-09-05 21:12:38,427 - instabot version: 0.117.0 (api) - INFO - Username or password is incorrect.
